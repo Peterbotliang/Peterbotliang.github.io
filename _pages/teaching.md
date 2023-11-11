@@ -8,7 +8,7 @@ nav_order: 5
 ---
 
 # Reviewer
-- Journal: IEEE TAES, IEEE TSP, JAIF 
+- Journal: IEEE TAES, IEEE TSP, IEEE TWC, JAIF 
 - Conference: ICASSP-21,22,23, FUSION-22
 
 # Teaching
