@@ -1,12 +1,22 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Services
+description: 
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+# Reviewer
+- Journal: IEEE TAES, IEEE TSP, IEEE TWC, JAIF 
+- Conference: ICASSP-21,22,23, FUSION-22
 
-Organize your courses by years, topics, or universities, however you like!
+# Teaching
+The following are the classes I TAing/TAed at UCSD
+
+- Fall 2023, ECE 275A: Parameter Estimation I 
+- Fall 2022, ECE 275A: Parameter Estimation I 
+- Fall 2021, ECE 275A: Parameter Estimation I 
+- Fall 2020, ECE 275A: Parameter Estimation I 
+- Winter 2020, ECE 251A: Digital Signal Processing I 
+- Fall 2019, ECE 225A: Probability and Statistics for Data Science 
