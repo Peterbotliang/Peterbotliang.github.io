@@ -8,8 +8,16 @@ nav_order: 5
 ---
 
 # Reviewer
-- Journal: IEEE TAES, IEEE TSP, IEEE TWC, JAIF 
-- Conference: ICASSP-21,22,23, FUSION-22
+- Journal:  
+    - IEEE Transaction on Signal Processing
+    - IEEE Transactions on Aerospace and Electronic Systems
+    - IEEE Transactions on Wireless Communications
+    - Journal of Advances in Information Fusion
+    - The Journal of the Acoustical Society of America
+
+- Conference: 
+    - IEEE ICASSP 2021-2024
+    - ISIF FUSION 2022
 
 # Teaching
 The following are the classes I TAing/TAed at UCSD
